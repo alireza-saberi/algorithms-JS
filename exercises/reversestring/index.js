@@ -15,13 +15,13 @@ function reverse(str) {
     return str.split('').reverse().join('');
 }
 
-function reverse(str) {
+//function reverse(str) {
 // there are three solutions available
 
 //    1st solution is built in solution
 //    reverse for arrays
 //    String > to array > reverse it > back to String
-    return str.split('').reverse().join('');
+//   return str.split('').reverse().join('');
 }
 
 // 2nd approach with for each techinique
