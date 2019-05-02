@@ -22,7 +22,7 @@ function reverse(str) {
 //    reverse for arrays
 //    String > to array > reverse it > back to String
 //   return str.split('').reverse().join('');
-}
+//}
 
 // 2nd approach with for each techinique
 
